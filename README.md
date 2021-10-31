@@ -2,9 +2,11 @@
 The purpose of this project is understand pure redux. It has no react feature in it.
 
 ### Below diagram describe the concept -
-* ![Redux concept](/diagram/concept.png)
-* ![Three Principle](/diagram/Three principle.png)
-* ![Redux store](/diagram/redux store.png)
+ ![Redux concept](/diagram/concept.png)
+
+ ![Three Principle](/diagram/principle.png)
+
+ ![Redux store](/diagram/store.png)
 
 
 
